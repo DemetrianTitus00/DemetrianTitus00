@@ -16,11 +16,11 @@
 ## 📜 SERVITOR DESIGNATION
 
 ```yaml
-Name:          [Your Name]
+Name:          Demetrian Titus
 Rank:          Battle-Brother / Full-Stack Codicier
 Chapter:       Ultramarines
 Company:       13th (Development & Reclamation)
-Specialty:     .NET Devastator | TypeScript Scout
+Specialty:     .NET | TypeScript | Python
 Oath of Moment: "Write it once. Write it clean. Ship it true."
 ```
 
