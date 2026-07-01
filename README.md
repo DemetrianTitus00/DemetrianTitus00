@@ -99,9 +99,9 @@ Oath of Moment: "Write it once. Write it clean. Ship it true."
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=blue_navy&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=blue_navy&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=blue-navy&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DemetrianTitus00&show_icons=true&theme=blue_navy&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DemetrianTitus00&layout=compact&theme=blue_navy&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DemetrianTitus00&theme=blue-navy&hide_border=true)
 
 </div>
 
