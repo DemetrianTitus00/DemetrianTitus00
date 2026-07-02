@@ -73,9 +73,7 @@ Oath of Moment: "Write it once. Write it clean. Ship it true."
 
 | Campaign | Wargear Used | Outcome |
 |---|---|---|
-| [**Project Macragge**](#) | .NET 8, EF Core, Azure Functions | Compliant ✅ |
-| [**Operation Calth**](#) | TypeScript, React, tRPC | Compliant ✅ |
-| [**Siege of Terra API**](#) | ASP.NET Core, PostgreSQL, Docker | Ongoing ⚔️ |
+| [**ASPIRE .NET**](#) | .NET 10, Aspire, Docker | Ongoing ⚔️ |
 
 *Full deployment record in pinned repositories below.*
 
