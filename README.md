@@ -73,7 +73,7 @@ Oath of Moment: "Write it once. Write it clean. Ship it true."
 
 | Campaign | Wargear Used | Outcome |
 |---|---|---|
-| [**ASPIRE .NET**](#) | .NET 10, Aspire, Docker | Ongoing ⚔️ |
+| [**ASPIRE .NET**](https://github.com/DemetrianTitus00/aspire_setup) | .NET 10, Aspire, Docker | Ongoing ⚔️ |
 
 *Full deployment record in pinned repositories below.*
 
